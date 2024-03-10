@@ -1,16 +1,13 @@
-### Hi there 👋
+#### 👨‍💻 About me
 
-<!--
-**wilsonsouto/wilsonsouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about Software Development field, I seek to learn and improve myself daily, believing that constant learning is the key to becoming an exceptional professional. I am convinced that technology plays a crucial role in solving problems and improving people's quality of life.
 
-Here are some ideas to get you started:
+#### 🎯 Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 📂 Expand my project repository
+  - 🤝 Help and contribute to other projects
+  - 📈 ~~Get an opportunity in the development area~~
+
+#### 🛠️ Stacks 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,tailwind,nextjs,nodejs,cs,git,postman,mysql,mongodb)](https://skillicons.dev)
