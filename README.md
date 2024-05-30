@@ -10,4 +10,4 @@ Passionate about Software Development field, I seek to learn and improve myself 
 
 #### 🛠️ Stacks 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,tailwind,nextjs,nodejs,cs,git,postman,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,tailwind,nextjs,nodejs,git,postman,cs,net,mysql,mongodb,docker)](https://skillicons.dev)
