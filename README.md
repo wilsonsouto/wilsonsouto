@@ -6,7 +6,7 @@ Hey <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif
 
   - 📂 Expand my project repository
   - 🤝 Help and contribute to other projects
-  - 📈 ~~Take on new challenges in the development field~~
+  - 📈 ~~Get an opportunity in the development area~~
 
 #### 🛠️ Main Stacks 
 
