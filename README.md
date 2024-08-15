@@ -10,4 +10,4 @@ Hey <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif
 
 #### 🛠️ Main Stacks 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,javascript,typescript,angular,cs,net,sqlserver,mysql,docker&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwind,javascript,typescript,angular,cs,net,sqlserver,mysql,docker&titles=true)
