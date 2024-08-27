@@ -1,13 +1,41 @@
-#### 👨‍💻 About me
-
-Hey <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15">, I'm Wilson! I'm seek to learn and improve myself daily. I believe that constant learning is the key to becoming an exceptional professional, and also that technology plays a crucial role in solving problems and improving people's quality of life. My goal is to contribute to this through my work.
-
-#### 🎯 Goals
-
-  - 📂 Expand my project repository
-  - 🤝 Help and contribute to other projects
-  - 📈 ~~Get an opportunity in the development area~~
-
-#### 🛠️ Main Stacks 
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwind,javascript,typescript,angular,cs,net,sqlserver,mysql,docker&titles=true)
+```json
+{
+  "greeting": "Hey 👋, I'm Wilson!",
+  "introduction": "I am committed to daily learning and self-improvement. I believe that continuous learning is essential for becoming an exceptional professional. Technology plays a vital role in solving problems and enhancing people's quality of life. My goal is to contribute to this mission through my work and projects.",
+  "goals": [
+    {
+      "icon": "📂",
+      "description": "Expand my project repository with innovative and challenging projects."
+    },
+    {
+      "icon": "🤝",
+      "description": "Help and contribute to other projects by collaborating with the developer community."
+    },
+    {
+      "icon": "📈",
+      "description": "Secure an opportunity in the development field where I can apply and further develop my skills."
+    }
+  ],
+  "stacks": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "Bootstrap",
+      "TailwindCSS",
+      "JavaScript",
+      "TypeScript",
+      "Angular"
+    ],
+    "backend": [
+      "C#",
+      ".NET",
+      "SQL Server",
+      "MySQL"
+    ],
+    "devOps": [
+      "Docker"
+    ]
+  }
+}
+```
