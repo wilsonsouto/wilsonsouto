@@ -1,10 +1,10 @@
 ```json
 {
   "name": "Wilson",
-  "role": "Software Developer"
+  "role": "Software Developer",
   "hobbies": [
     "Coding",
-    "Travelling"
+    "Travelling",
     "Playing guitar and chess",
   ],
   "goals": [
