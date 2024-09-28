@@ -10,4 +10,4 @@ Hey 👋, I'm Wilson! I am committed to learning and improving myself daily. I b
 
 #### 🛠️ Main Stacks 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,javascript,typescript,angular,cs,net,sqlserver,mysql,docker&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,javascript,typescript,cs,net,sqlserver,mysql,docker&titles=true)
