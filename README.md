@@ -1,28 +1,16 @@
-```bash
-const Introduction = {
-  name: "Wilson Souto",
-  job: "Software Developer",
-  tagline: "Solving problems with code lines 🚀",
-  education: "Graduated in Systems Analysis and Development – FIAP (2022)",
-  skills: {
-    languages: ["C#", "HTML", "CSS", "JavaScript", "TypeScript", "Shell"],
-    frameworks: ["ASP.NET Core", "Node.js", "React", "TailwindCSS"],
-    architecturalPatterns: ["Microservices", "Event-Driven"],
-    integration: ["APIs (RESTful, HTTP, SOAP, GraphQL)", "Messaging (RabbitMQ)"],
-    os: ["Linux (Ubuntu)", "Windows"],
-    data: ["SQL (SQL Server, MySQL)", "NoSQL (MongoDB, Elasticsearch, Redis)"],
-    tools: ["Docker", "Git", "Postman"]
-  },
-  interests: [
-    "Technology",
-    "Philosophy",
-    "Music",
-    "Chess",
-    "Travel"
-  ],
-  contact: {
-    email: "wilsonsouto@outlook.com.br",
-    portfolio: "https://portfolio-wilsonsouto.vercel.app/"
-  },
-};
-```
+🎓 **Graduated in Systems Analysis and Development** – completed in 2022.
+
+🧑‍💻 I’m always striving to learn and improve. I believe continuous learning is key to becoming a skilled professional and that technology is crucial in solving problems and improving people’s quality of life. My goal is to contribute to this through my work, creating impactful solutions with lines of code.
+
+🏆 **Soft Skills:** Teamwork, Communication, Problem-Solving, Time Management
+
+🖱️ **Technical Skills:**  
+Languages: C#, HTML, CSS, JavaScript, TypeScript, Shell  
+Frameworks: ASP.NET Core, Node.js, React, TailwindCSS  
+Architectural Patterns: Microservices, Event-Driven  
+Integration: APIs (RESTful, HTTP, SOAP, GraphQL), Messaging (RabbitMQ)  
+Operating Systems: Linux (Ubuntu), Windows  
+Data Management: SQL (SQL Server, MySQL), NoSQL (MongoDB, Elasticsearch, Redis)  
+Development Tools: Docker, Git, Postman  
+
+📚 **Methodologies:** Scrum, Kanban
