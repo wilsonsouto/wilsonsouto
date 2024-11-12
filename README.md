@@ -4,7 +4,7 @@
 
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS, JavaScript, TypeScript, Shell  
-Frameworks: ASP.NET Core, Node.js, React, TailwindCSS  
+Frameworks: ASP.NET Core, Angular, TailwindCSS  
 Architectural Patterns: Microservices, Event-Driven  
 Integration: APIs (RESTful, HTTP, SOAP, GraphQL), Messaging (RabbitMQ)  
 Operating Systems: Linux (Ubuntu), Windows  
