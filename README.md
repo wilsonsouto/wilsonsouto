@@ -13,4 +13,4 @@ Development Tools: Docker, Git, Postman
 
 🏆 **Soft Skills:** Teamwork, Communication, Problem-Solving, Time Management      
 📚 **Methodologies:** Scrum, Kanban          
-✉️ **Email:** wilsonsouto@outlook.com.br  
+✉️ **Contact:** wilsonsouto@outlook.com.br  
