@@ -11,4 +11,6 @@ Operating Systems: Linux (Ubuntu), Windows
 Data Management: SQL (SQL Server, MySQL), NoSQL (MongoDB, Elasticsearch, Redis)  
 Development Tools: Docker, Git, Postman  
 
+🏆 **Soft Skills:** Teamwork, Communication, Problem-Solving, Time Management      
+📚 **Methodologies:** Scrum, Kanban          
 ✉️ **Email:** wilsonsouto@outlook.com.br  
