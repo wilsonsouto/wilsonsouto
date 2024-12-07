@@ -4,7 +4,7 @@ I'm driven by a passion for continuous learning and self-improvement. I believe 
 
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS/SASS, JavaScript, TypeScript, Shell  
-Frameworks: ASP.NET Core, Angular, TailwindCSS  
+Frameworks: ASP.NET Core  
 Architectural Patterns: Microservices, Event-Driven  
 Integration: APIs (RESTful, HTTP, SOAP, GraphQL), Messaging (RabbitMQ)  
 Operating Systems: Linux (Ubuntu), Windows  
