@@ -1,6 +1,6 @@
 🎓 **Graduated in Systems Analysis and Development** – completed in 2022.
 
-I'm driven by a passion for continuous learning and self-improvement. I believe that staying curious and up-to-date is essential for becoming a skilled professional. To me, technology it’s a powerful tool to solve real-world problems and enhance people's lives. My goal is to create impactful, meaningful solutions with code.
+I'm driven by a passion for continuous learning and self-improvement. I believe that staying curious and up-to-date is essential for becoming a skilled professional. For me, technology it’s a powerful tool to solve real-world problems and enhance people's lives. My goal is to create impactful, meaningful solutions with code.
 
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS/SASS, TypeScript, Bash    
