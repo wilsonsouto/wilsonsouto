@@ -1,10 +1,10 @@
 🎓 **Graduated in Systems Analysis and Development** – completed in 2022.
 
-I'm driven by a passion for continuous learning and self-improvement. I believe that staying curious and up-to-date is essential for becoming a skilled professional. For me, technology it’s a powerful tool to solve real-world problems and enhance people's lives. My goal is to create impactful, meaningful solutions with code.
+I am a .NET Developer dedicated to creating value by building scalable and efficient back-end systems using ASP.NET Core. Alongside my expertise in back-end development, I also have experience with Angular, allowing me to develop dynamic, user-friendly front-end interfaces that seamlessly integrate with robust back-end services.
 
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS/SASS, TypeScript, Bash    
-Frameworks: ASP.NET Core, Angular, TailwindCSS    
+Frameworks: ASP.NET Core, Angular, Tailwind CSS    
 Architectural Patterns: Microservices, Event-Driven  
 Integration: APIs (RESTful, HTTP, SOAP, GraphQL), Messaging (RabbitMQ)  
 Data Management: SQL (SQL Server, MySQL), NoSQL (MongoDB, Elasticsearch, Redis)    
