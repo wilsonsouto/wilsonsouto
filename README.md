@@ -1,6 +1,6 @@
 🎓 **Graduated in Systems Analysis and Development** – completed in 2022.
 
-I am a .NET Developer dedicated to creating value by building scalable and efficient back-end systems using ASP.NET Core. Alongside my expertise in back-end development, I also have experience with Angular, allowing me to develop dynamic, user-friendly front-end interfaces that seamlessly integrate with robust back-end services.
+.NET Developer dedicated to creating value by building scalable and efficient back-end systems using ASP.NET Core. Alongside my expertise in back-end development, I also have experience with Angular, allowing me to develop dynamic, user-friendly front-end interfaces that seamlessly integrate with robust back-end services.
 
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS/SASS, TypeScript, Bash    
