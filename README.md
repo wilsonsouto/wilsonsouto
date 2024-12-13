@@ -1,6 +1,6 @@
 🎓 **Graduated in Systems Analysis and Development** – completed in 2022.
 
- I am a .NET developer focused on creating value by solving problems and building scalable, efficient back-end systems using ASP.NET Core, complemented by skills in Angular for creating dynamic and user-friendly front-end interfaces.
+I am a Full Stack Developer focused on creating value by solving problems and building scalable, efficient back-end systems using ASP.NET Core, and integrating dynamic front-end interfaces with Angular.
 
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS/SASS, TypeScript, Bash    
