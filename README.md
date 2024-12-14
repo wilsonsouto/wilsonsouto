@@ -8,8 +8,8 @@ Frameworks and Libraries: .NET, ASP.NET Core, Entity Framework (EF) Core, Angula
 Architectural Patterns: Design Patterns, Domain-Driven Design (DDD), Microservices, Event-driven  
 Integration: APIs (RESTful, HTTP, SOAP, GraphQL), Messaging (RabbitMQ)  
 Data Management: SQL (SQL Server, MySQL), NoSQL (MongoDB, Elasticsearch, Redis)  
-Development Tools and Platforms: Docker, Jenkins, Git, Postman, Jaeger, Grafana, Consul, Jira  
-Operating Systems: Linux (Ubuntu), Windows           
+Development Tools: Docker, Git, Postman  
+Operating Systems: Linux (Ubuntu), Windows            
 
 🏆 **Soft Skills:** Teamwork, Communication, Problem-Solving, Time Management      
 📚 **Methodologies:** Scrum, Kanban          
