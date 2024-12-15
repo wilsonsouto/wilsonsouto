@@ -1,6 +1,6 @@
-🎓 **Graduated in Systems Analysis and Development** – completed in 2022.
+🎓 **𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗶𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝟮𝟬𝟮𝟮)**
 
-I am a Full Stack Developer focused on creating value by solving problems and building scalable, efficient back-end systems using ASP.NET Core, and integrating dynamic front-end interfaces with Angular.
+I am a dedicated and results-oriented .NET Developer with a strong foundation in systems analysis and development. My passion lies in creating value by solving problems and building solutions. At Intervalor, I've honed my skills in delivering high-quality, scalable solutions that drive business success.
 
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS/SASS, TypeScript, Bash  
