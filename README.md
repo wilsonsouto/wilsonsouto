@@ -5,11 +5,11 @@ I am a dedicated and results-oriented .NET Developer with a strong foundation in
 🖱️ **Technical Skills:**  
 Languages: C#, HTML, CSS/SASS, TypeScript, Bash  
 Frameworks and Libraries: .NET, ASP.NET Core, Entity Framework (EF) Core, Angular, TailwindCSS  
-Architectural Patterns: Design Patterns, Domain-Driven Design (DDD), Microservices, Event-driven  
+Architectural Patterns: MVC (Model-View-Controller), Microservices, Event-driven, Domain-Driven Design (DDD), Design Patterns     
 Integration: APIs (RESTful, HTTP, SOAP, GraphQL), Messaging (RabbitMQ)  
 Data Management: SQL (SQL Server, MySQL), NoSQL (MongoDB, Elasticsearch, Redis)  
 Development Tools: Docker, Git, Postman  
-Operating Systems: Linux (Ubuntu), Windows            
+Operating Systems: Linux (Ubuntu), Windows             
 
 🏆 **Soft Skills:** Teamwork, Communication, Problem-Solving, Time Management      
 📚 **Methodologies:** Scrum, Kanban          
