@@ -11,6 +11,6 @@ Data Management: SQL (SQL Server, MySQL), NoSQL (MongoDB, Elasticsearch, Redis)
 Development Tools: Docker, Git, Postman  
 Operating Systems: Linux (Ubuntu), Windows             
 
-🏆 **Soft Skills:** Test-Driven Development (TDD), Scrum, Kanban        
-📚 **Methodologies:** Scrum, Kanban          
+🏆 **Soft Skills:** Teamwork, Communication, Problem-Solving, Time Management       
+📚 **Methodologies:** Test-Driven Development (TDD), Scrum, Kanban          
 ✉️ **Contact:** wilsonsouto@outlook.com.br  
