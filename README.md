@@ -2,8 +2,8 @@
 
 Dedicated and results-oriented Software Developer with expertise in systems analysis and development. Passionate about creating value by solving problems and building solutions. Proven track record at Intervalor in delivering high-quality, efficient software that drives business success.
 
-🖱️ Technical Skills:
-Languages: C#, HTML, CSS/SASS, TypeScript, Bash  
+🖱️ Technical Skills:  
+Languages: C#, HTML, CSS/SASS, TypeScript, Bash    
 Frameworks and Libraries: .NET, ASP.NET Core, Entity Framework (EF) Core, Angular, TailwindCSS  
 Architectural Patterns: Model-View-Controller (MVC), Microservices, Event-driven, Domain-Driven Design (DDD), Design Patterns  
 Integration: APIs (RESTful, HTTP, SOAP, GraphQL), Messaging (RabbitMQ)  
@@ -13,3 +13,4 @@ Operating Systems: Linux (Ubuntu), Windows
 
 🏆 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀: Teamwork, Communication, Problem-Solving, Time Management  
 📚 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Test-Driven Development (TDD), Scrum, Kanban   
+✉️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: [wilsonsouto@outlook.com.br](mailto:wilsonsouto@outlook.com.br)
